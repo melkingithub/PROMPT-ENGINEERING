@@ -198,7 +198,8 @@ Job Displacement – Certain roles, especially in content creation, may face aut
 
 Ethical Concerns – Use of generative AI in sensitive areas (politics, healthcare, military) may lead to misuse.
 
-<img width="329" height="153" alt="image" src="https://github.com/user-attachments/assets/babd34ce-dc22-49ac-8701-e41344430cda" />
+![download (1)](https://github.com/user-attachments/assets/e4a6b2bb-7d33-4df8-954d-2e229e3dbcb4)
+
 
 
 
