@@ -6,11 +6,13 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
-# Algorithm: Step 1: Define Scope and Objectives
+# Algorithm: 
+## Step 1: Define Scope and Objectives
 1.1 Identify the goal of the report (e.g., educational, research, tech overview)
 1.2 Set the target audience level (e.g., students, professionals)
 1.3 Draft a list of core topics to cover
-Step 2: Create Report Skeleton/Structure
+
+# Step 2: Create Report Skeleton/Structure
 2.1 Title Page
 2.2 Abstract or Executive Summary
 2.3 Table of Contents
@@ -27,30 +29,30 @@ Step 2: Create Report Skeleton/Structure
 •	Future Trends
 2.6 Conclusion
 2.7 References
-________________________________________
-Step 3: Research and Data Collection
+
+# Step 3: Research and Data Collection
 3.1 Gather recent academic papers, blog posts, and official docs (e.g., OpenAI, Google AI)
 3.2 Extract definitions, explanations, diagrams, and examples
 3.3 Cite all sources properly
-________________________________________
-Step 4: Content Development
+
+# Step 4: Content Development
 4.1 Write each section in clear, simple language
 4.2 Include diagrams, figures, and charts where needed
 4.3 Highlight important terms and definitions
 4.4 Use examples and real-world analogies for better understanding
-________________________________________
-Step 5: Visual and Technical Enhancement
+
+# Step 5: Visual and Technical Enhancement
 5.1 Add tables, comparison charts (e.g., GPT-3 vs GPT-4)
 5.2 Use tools like Canva, PowerPoint, or LaTeX for formatting
 5.3 Add code snippets or pseudocode for LLM working (optional)
-________________________________________
-Step 6: Review and Edit
+
+# Step 6: Review and Edit
 6.1 Proofread for grammar, spelling, and clarity
 6.2 Ensure logical flow and consistency
 6.3 Validate technical accuracy
 6.4 Peer-review or use tools like Grammarly or ChatGPT for suggestions
-________________________________________
-Step 7: Finalize and Export
+
+# Step 7: Finalize and Export
 7.1 Format the report professionally
 7.2 Export as PDF or desired format
 7.3 Prepare a brief presentation if required (optional)
@@ -63,11 +65,7 @@ Step 7: Finalize and Export
 
 Artificial Intelligence (AI) has evolved rapidly over the past decade, transforming the way humans interact with technology. One of the most revolutionary advancements in this field is Generative Artificial Intelligence (Generative AI or GenAI). Unlike traditional AI systems, which are primarily designed to classify, analyze, or predict outcomes, generative AI focuses on the creation of new content. This content can be in various forms, including text, images, audio, video, code, and even 3D models.
 
-Generative AI has gained massive attention due to its ability to simulate human creativity and produce realistic results. From conversational chatbots like ChatGPT to image-generation models like DALL·E and MidJourney, generative AI has already become a part of daily life. This technology has the potential to reshape industries such as education, healthcare, business, cybersecurity, and entertainment. However, it also raises important ethical, social, and legal questions.
-<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/46859cfe-dd14-45de-8ebb-74f3bd4562df" />
-
-
-This paper explores the concept of generative AI, its underlying mechanisms, practical applications, benefits, risks, and future potential.
+Generative AI has gained massive attention due to its ability to simulate human creativity and produce realistic results. From conversational chatbots like ChatGPT to image-generation models like DALL·E and MidJourney, generative AI has already become a part of daily life. This technology has the potential to reshape industries such as education, healthcare, business, cybersecurity, and entertainment. However, it also raises important ethical, social, and legal questions.This paper explores the concept of generative AI, its underlying mechanisms, practical applications, benefits, risks, and future potential.
 
 2. Concept of Generative AI
 
@@ -86,7 +84,6 @@ GitHub Copilot – assists programmers by generating code snippets.
 Runway / Pika Labs – generates video content.
 
 Generative AI represents a paradigm shift in AI, moving from problem-solving toward content creation and human augmentation.
-<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/7ead6375-135a-4a8c-a45b-51b38d61a20f" />
 
 
 3. How Generative AI Works
