@@ -95,7 +95,8 @@ The model transitions from the lab to the actual world after training. Its imple
 
 
 
-<img width="240" height="210" alt="image" src="https://github.com/user-attachments/assets/36061fb9-24b7-46b2-8a3d-584e69318c0f" />
+<img width="1001" height="801" alt="image" src="https://github.com/user-attachments/assets/ab556b76-26fe-4c0b-b390-5e7fd6c75bdc" />
+
 
 
 ## Generative AI architecture  and its applications.
