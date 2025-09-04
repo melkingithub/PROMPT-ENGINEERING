@@ -95,7 +95,8 @@ The model transitions from the lab to the actual world after training. Its imple
 
 
 
-<img width="2232" height="1255" alt="image" src="https://github.com/user-attachments/assets/6d0bf06e-88be-4b77-8262-8de8b82e8a5c" />
+<img width="240" height="210" alt="image" src="https://github.com/user-attachments/assets/36061fb9-24b7-46b2-8a3d-584e69318c0f" />
+
 
 ## Generative AI architecture  and its applications.
 Gen AI can be used in various ways across business functions. Here are seven real-world applications of gen AI.
